@@ -1,0 +1,27 @@
+{
+    "lugares": [
+      {
+        "id": 1,
+        "nome": "Arraial do Cabo",
+        "descricao": "Maldivas dentro do Rio! As praias premiadas pela beleza e vida marinha abundante!",
+        "foto": "https://a.cdn-hotels.com/gdcs/production51/d317/69126537-8bce-4218-adb1-594ac7d9c4b2.jpg",
+        "preco": 290,
+        "categoria_id": 1
+      },
+      {
+        "id": 2,
+        "nome": "Búzios",
+        "descricao": "Cartão postal da região dos lagos, alta temporada o ano todo!",
+        "foto": "https://www.grupobz.com.br/storage/2020/01/Rua-das-Pedras_B%C3%BAzios.jpg",
+        "preco": 315,
+        "categoria_id": 1
+      },
+      {
+        "id": 3,
+        "nome": "Cabo Frio",
+        "descricao": "Ambiente familiar, excelentes pontos turíscos, bares e restaurantes!",
+        "foto": "https://www.melhoresdestinos.com.br/wp-content/uploads/2020/10/cabofrio-capa2019.jpg",
+        "preco": 260,
+        "categoria_id": 1
+      }]
+}
